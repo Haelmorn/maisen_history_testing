@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Maisen Feature History Component renders correctly 1`] = `
+<div>
+  <h3>
+    Feature History
+  </h3>
+  <nav
+    aria-label="main mailbox folders"
+    className="MuiList-root MuiList-padding"
+  />
+</div>
+`;
